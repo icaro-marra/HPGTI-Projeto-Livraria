@@ -1,1 +1,2 @@
-# HPGTI-Projeto-Livraria
+Nome do Projeto: 
+Integrantes: Ícaro Marra Souza,
