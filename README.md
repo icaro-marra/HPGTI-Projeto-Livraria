@@ -11,7 +11,7 @@ Amanda, Ícaro e Luan
 -git push  
 -git add .
 
-Principais Consultas Realizadas:
+## Principais Consultas Realizadas
 
 ## Estrutura do Banco de Dados
 
