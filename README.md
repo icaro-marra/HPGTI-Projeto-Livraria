@@ -13,6 +13,7 @@ Amanda, Ícaro e Luan
 
 ## Principais Consultas Realizadas
 
+!(img\print-DDL.png)
 ## Estrutura do Banco de Dados
 
 Tabelas mapeadas a partir do arquivo DDL-ProjetoLivraria.sql
