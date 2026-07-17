@@ -2,7 +2,7 @@
 
 A definir
 
-##Integrantes: 
+## Integrantes
 Amanda, Ícaro e Luan
 
 Comandos Git Mais Utilizados:
