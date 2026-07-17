@@ -5,7 +5,7 @@ A definir
 ## Integrantes
 Amanda, Ícaro e Luan
 
-Comandos Git Mais Utilizados:
+## Comandos Git Mais Utilizados
 -git commit -m ""
 -git pull
 -git push
