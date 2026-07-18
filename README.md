@@ -2,19 +2,21 @@
 
 A definir
 
-Integrantes: Ícaro Marra Souza,Amanda e Luan
+## Integrantes
+Amanda, Ícaro e Luan
 
-Comandos Git Mais Utilizados:
--git commit -m ""
--git pull
--git push
+## Comandos Git Mais Utilizados
+-git commit -m ""  
+-git pull  
+-git push  
 -git add .
 
-Principais Consultas Realizadas:
+## Principais Consultas Realizadas
 
+![teste](img/print-DDL.png)
 ## Estrutura do Banco de Dados
 
-Tabelas mapeadas a partir do arquivo [DDL-ProjetoLivraria.sql](file:///D:/Documents/UnDF/GTI/4º Semestre/HPGTI 4/HPGTI-Projeto-Livraria/DDL-ProjetoLivraria.sql).
+Tabelas mapeadas a partir do arquivo DDL-ProjetoLivraria.sql
 
 ### Tabela `autores`
 Armazena o cadastro dos autores dos livros.
