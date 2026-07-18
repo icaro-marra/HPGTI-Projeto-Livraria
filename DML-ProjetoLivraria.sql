@@ -41,6 +41,7 @@ INSERT INTO livros (no_titulo, ano_publicacao, vl_preco, qtd_estoque, id_autor, 
 -- Livros de Stephen King (id_autor = 2) na categoria Terror (id_categoria = 3)
 ('It: A Coisa', 1986, 89.90, 12, 2, 3),
 ('O Iluminado', 1977, 59.90, 5, 2, 3),
+('The Outsider', 2018, 69.90, 14, 2, 3),
 
 -- Livro de J.K. Rowling (id_autor = 3) na categoria Fantasia (id_categoria = 4)
 ('Harry Potter e a Pedra Filosofal', 1997, 49.90, 25, 3, 4),
