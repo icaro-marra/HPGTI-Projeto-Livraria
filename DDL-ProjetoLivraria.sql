@@ -24,7 +24,7 @@ CREATE TABLE categorias (
 CREATE TABLE livros (
     id_livro INT AUTO_INCREMENT PRIMARY KEY,
     no_titulo VARCHAR(150) NOT NULL,
-    ano_publicacao YEAR NOT NULL,
+    ano_publicacao INT NOT NULL,
     vl_preco DECIMAL(10, 2) NOT NULL CHECK (vl_preco >= 0),
     qtd_estoque INT NOT NULL CHECK (qtd_estoque >= 0),
     id_autor INT NOT NULL,
