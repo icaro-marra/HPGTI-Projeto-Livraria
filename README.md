@@ -1,6 +1,4 @@
-## Nome do Projeto
-
-A definir
+## Projeto: BiblioTech DBM
 
 ## Integrantes
 Amanda, Ícaro e Luan
