@@ -38,7 +38,7 @@ CREATE TABLE livros (
 CREATE TABLE vendas (
     id_venda INT AUTO_INCREMENT PRIMARY KEY,
     nome_cliente VARCHAR(100) NOT NULL,
-    email_cliente VARCHAR(100) NOT NULL UNIQUE,
+    email_cliente VARCHAR(100) NOT NULL,
     id_livro INT NOT NULL,
     quantidade INT NOT NULL CHECK (quantidade > 0),
     data_venda DATE NOT NULL,
