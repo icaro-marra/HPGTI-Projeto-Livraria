@@ -55,7 +55,7 @@ Registra as transações de venda de livros para clientes.
 | :--- | :--- | :--- |
 | `id_venda` | INT | Chave primária autoincrementada que identifica unicamente a venda. |
 | `nome_cliente` | VARCHAR(100) | Nome completo do cliente comprador. |
-| `email_cliente` | VARCHAR(100) | Endereço de e-mail do cliente (deve ser único no banco de dados). |
+| `email_cliente` | VARCHAR(100) | Endereço de e-mail do cliente comprador. |
 | `id_livro` | INT | Chave estrangeira que referencia o livro vendido na tabela `livros`. |
 | `quantidade` | INT | Quantidade de exemplares vendidos na transação. Deve ser maior que 0. |
 | `data_venda` | DATE | Data em que a venda foi efetuada. |
