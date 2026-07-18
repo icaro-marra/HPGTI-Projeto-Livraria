@@ -40,7 +40,7 @@ Armazena o acervo de livros disponíveis na livraria e suas informações de pre
 | :--- | :--- | :--- |
 | `id_livro` | INT | Chave primária autoincrementada que identifica unicamente o livro. |
 | `no_titulo` | VARCHAR(150) | Título do livro. |
-| `ano_publicacao` | YEAR | Ano de publicação do livro. |
+| `ano_publicacao` | INT | Ano de publicação do livro em 4 dígitos. |
 | `vl_preco` | DECIMAL(10, 2) | Preço unitário de venda do livro. Deve ser um valor maior ou igual a 0,00. |
 | `qtd_estoque` | INT | Quantidade disponível do livro em estoque. Deve ser um valor maior ou igual a 0. |
 | `id_autor` | INT | Chave estrangeira que referencia o autor correspondente na tabela `autores`. |
