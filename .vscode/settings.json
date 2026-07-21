@@ -12,7 +12,7 @@
             "driver": "MySQL",
             "name": "Livraria local",
             "username": "root",
-            "password": "Yago2013",
+            "password": "",
             "database": "mysql"
         }
     ]
