@@ -36,9 +36,9 @@ JOIN
 
 **Banco de Dados:** `LivrariaProjetoFinal`  
 
-Tabelas mapeadas a partir do arquivo [`DDL-ProjetoLivraria.sql`](DDL-ProjetoLivraria.sql).
+Tabelas mapeadas a partir do arquivo [`DDL-ProjetoLivraria.sql`](scripts/DDL-ProjetoLivraria.sql).
 
-![Diagrama DDL](img/print-DDL.png)
+![Diagrama DDL](prints/print-DDL.png)
 
 ### Tabela `autores`
 Armazena o cadastro dos autores dos livros.
@@ -82,3 +82,6 @@ Registra as transações de venda de livros para clientes.
 | `quantidade` | INT | NOT NULL, CHECK (quantidade > 0) | Quantidade de exemplares vendidos na transação. Deve ser maior que 0. |
 | `data_venda` | DATE | NOT NULL | Data em que a venda foi efetuada. |
 | `status_venda` | ENUM('finalizada', 'pendente', 'cancelada') | DEFAULT 'pendente' | Situação atual da venda (padrão é 'pendente'). |
+
+## Primeira Consulta
+![](prints\Consulta1.png)
