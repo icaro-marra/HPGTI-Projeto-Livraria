@@ -7,7 +7,9 @@ Amanda, Ícaro e Luan
 - git add .
 - git commit -m ""  
 - git pull  
-- git push  
+- git push
+- git status
+- git branch
 
 ## Estrutura do Banco de Dados
 
