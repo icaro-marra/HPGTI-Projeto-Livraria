@@ -84,4 +84,4 @@ Registra as transações de venda de livros para clientes.
 | `status_venda` | ENUM('finalizada', 'pendente', 'cancelada') | DEFAULT 'pendente' | Situação atual da venda (padrão é 'pendente'). |
 
 ## Primeira Consulta
-![Consulta](prints\Consulta1.png)
+![Consulta](prints/Consulta1.png)
