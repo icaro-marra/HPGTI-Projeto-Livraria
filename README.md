@@ -3,6 +3,27 @@
 ## Integrantes
 Amanda, Ícaro e Luan
 
+## Consultas Realizadas
+- Listar todos os livros com seus respectivos autores e categorias
+- Listar todos os livros e suas vendas, incluindo livros que ainda não foram
+vendidos
+-  Listar todas as vendas com o título do livro vendido
+-  Listar todos os livros vendidos, mostrando título, quantidade vendida e data
+da venda
+- Exibir os livros que ainda não foram vendidos
+- Exibir os livros vendidos utilizando INNER JOIN
+- Exibir todos os livros, inclusive os que não possuem venda, utilizando LEFT
+JOIN
+- Exibir todas as vendas e seus respectivos livros utilizando RIGHT JOIN
+- Calcular o valor total de cada venda
+- Calcular o valor total vendido pela livraria
+- Listar os livros com estoque menor que 10 unidades
+- Listar os livros publicados a partir de 2018
+- Listar os livros cujo preço esteja entre R$ 50,00 e R$ 120,00
+- Exibir a média de preço dos livros
+- Exibir a quantidade total de livros em estoque por categoria
+- Listar os autores e a quantidade de livros cadastrados para cada um
+
 ## Comandos Git Mais Utilizados
 - git add .
 - git commit -m ""  
