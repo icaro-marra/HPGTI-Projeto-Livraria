@@ -85,3 +85,7 @@ Registra as transações de venda de livros para clientes.
 
 ## Primeira Consulta
 ![Consulta](prints/Consulta1.png)
+
+## Informações extras
+
+Este trabalho é a entrega final da disciplina Habilidades Profissionais em Gestão da Tecnologia da Informação Iv: Banco de Dados e Ciclo de Vida do Software
