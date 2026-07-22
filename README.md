@@ -88,4 +88,4 @@ Registra as transações de venda de livros para clientes.
 
 ## Informações extras
 
-Este trabalho é a entrega final da disciplina Habilidades Profissionais em Gestão da Tecnologia da Informação Iv: Banco de Dados e Ciclo de Vida do Software
+Este trabalho é a entrega final da disciplina Habilidades Profissionais em Gestão da Tecnologia da Informação Iv: Banco de Dados e Ciclo de Vida do Software, cursada pelos autores do trabalho no primeiro semestre de 2026.
